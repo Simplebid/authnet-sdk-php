@@ -64,7 +64,7 @@ class CreateTransactionRequest extends ANetApiRequestType
                 }
             }
         }
-        return $values;
+        return array_merge(parent::jsonSerialize(), $values);
     }
     
 }
