@@ -1,5 +1,5 @@
 {
-	"name" : "Simplebid/authnet-sdk-php",
+	"name" : "simplebid/authnet-sdk-php",
 	"type" : "library",
 	"description" : "Official PHP SDK for Authorize.Net",
 	"keywords" : [
